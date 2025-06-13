@@ -85,19 +85,20 @@ For other technical content:
 
 ```
 ai-tech-task-solver-chrome-extension/
-├── manifest.json          # Extension configuration
-├── popup.html             # Extension popup UI
-├── popup.js               # Popup functionality
-├── content.js             # Page screenshot capture
-├── background.js          # AI API communication
-├── options.html           # Configuration page
-├── options.js             # Options functionality
-├── html2canvas.min.js     # Screenshot library
-├── icons/                 # Extension icons
+├── manifest.json            # Extension configuration
+├── popup.html               # Extension popup UI
+├── popup.js                 # Popup functionality
+├── content.js               # Page screenshot capture
+├── background.js            # AI API communication
+├── options.html             # Configuration page
+├── options.js               # Options functionality
+├── html2canvas.min.js       # Screenshot library
+├── privacy-policy.md        # Privacy policy
+├── icons/                   # Extension icons
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
-└── README.md              # This file
+└── README.md                # This file
 ```
 
 ## Permissions
