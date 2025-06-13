@@ -84,7 +84,7 @@ For other technical content:
 ## Files Structure
 
 ```
-ai-chrome-extension/
+ai-tech-task-solver-chrome-extension/
 ├── manifest.json          # Extension configuration
 ├── popup.html             # Extension popup UI
 ├── popup.js               # Popup functionality
